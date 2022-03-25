@@ -1,3 +1,3 @@
-product name :- sample product
+product name :- Shiva sample product
 price: 200
 image: sdlflsdfj
